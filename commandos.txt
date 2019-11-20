@@ -1,0 +1,49 @@
+init: 
+Ein existierendes Verzeichnis als Git Repository initialisieren
+
+config:
+Git konfigurieren, Name, E-Mail, Passwort, ...
+
+clone:
+Ein Repository in eine neue Richtung clonen
+
+add:
+Dateien hinzufügen
+
+rm: 
+Dateien entfernen
+
+commit:
+Auftrag bestätigen, mit Nachricht danach
+
+remote:
+Liste der Remote Branches bekommen
+
+push:
+Updaten, damit alles auf dem gleichem Stand ist
+
+pull:
+verbindet die Veränderungen
+
+status:
+Den Status abrufen
+
+diff:
+behebt Fehler
+
+reset:
+etwas zurücksetzen
+
+log:
+zeigt die commit-logs
+
+branch:
+löscht einen Branch
+
+checkout:
+aus dem Branch aussteigen, in ein anderes wechseln
+
+merge:
+verbindet die Veränderungen
+
+
